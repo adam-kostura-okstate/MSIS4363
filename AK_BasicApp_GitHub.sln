@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AK_BasicApp_GitHub", "AK_BasicApp_GitHub\AK_BasicApp_GitHub.csproj", "{64E6B3C5-064C-44D2-A669-F2172D2C615B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AK_BasicApp.Tests", "AK_BasicApp.Tests\AK_BasicApp.Tests.csproj", "{DE63762A-F952-4838-9666-C1E4236856E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E6B3C5-064C-44D2-A669-F2172D2C615B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E6B3C5-064C-44D2-A669-F2172D2C615B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E6B3C5-064C-44D2-A669-F2172D2C615B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E6B3C5-064C-44D2-A669-F2172D2C615B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE63762A-F952-4838-9666-C1E4236856E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE63762A-F952-4838-9666-C1E4236856E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE63762A-F952-4838-9666-C1E4236856E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE63762A-F952-4838-9666-C1E4236856E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765D0C80-1977-4029-9983-740B936AAF24}
+	EndGlobalSection
+EndGlobal
